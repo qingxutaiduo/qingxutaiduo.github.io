@@ -1,0 +1,1 @@
+var myData={designer:{name:'游先辉',phone:'131-4704-6323',tag:["#爱生活 #爱设计 #情绪太多"],bg:'#1E2025'},gallery:[{src:"myworks/logo pdf 排版 1.png",w:1920,h:13180},]}
